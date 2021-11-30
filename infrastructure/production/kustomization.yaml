@@ -4,3 +4,5 @@ resources:
   - sources
   - nginx
   - redis
+  - notifications # Enable notifications for production
+
